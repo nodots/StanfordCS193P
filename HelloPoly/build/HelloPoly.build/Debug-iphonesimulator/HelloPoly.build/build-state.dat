@@ -1,0 +1,357 @@
+THelloPoly
+v7
+r0
+t300851209.315132
+cCheck dependencies
+cProcessInfoPlistFile "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist" HelloPoly-Info.plist
+cCompileXIB "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/MainWindow.xib"
+cProcessPCH /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C362EC70000000000000132
+t1278619335
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.h
+c000000004C3E557D0000000000000202
+t1279153533
+s514
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m
+c000000004C3E54C6000000000000074A
+t1279153350
+s1866
+i"Controller.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.h
+c000000004C3E415F000000000000019F
+t1279148383
+s415
+i<UIKit/UIKit.h>
+i"Controller.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m
+c000000004C3E424A0000000000000AAA
+t1279148618
+s2730
+i"HelloPolyAppDelegate.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.h
+c000000004C3B68EA000000000000049B
+t1278961898
+s1179
+i<Foundation/Foundation.h>
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m
+c000000004C3CC0F000000000000009E4
+t1279049968
+s2532
+i"PolygonShape.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.h
+c000000004C3E53C300000000000001B1
+t1279153091
+s433
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m
+c000000004C3E688500000000000007A7
+t1279158405
+s1959
+i"PolygonView.h"
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/HelloPoly_Prefix.pch
+c000000004C3CBFCA00000000000000BB
+t1279049674
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/MainWindow.xib
+c000000004C3E572600000000000089B4
+t1279153958
+s35252
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+t1279158142
+s204
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+t1279158142
+s102
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+t1279158142
+s26560
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+t1279152791
+s691
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib
+t1279153963
+s2859
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo
+t1279152791
+s8
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+t1279153542
+s41528
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList
+c000000004C3E529700000000000002F5
+t1279152791
+s757
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+t1279153542
+s48560
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+t1279152792
+s17308
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o
+t2
+s0
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+t1279152792
+s6340
+
+N/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m
+c000000004C3CBFCA0000000000000168
+t1279049674
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch.gch
+t1279152792
+s15232016
+
+NHelloPoly-Info.plist
+c000000004C3E3A6D0000000000000409
+t1279146605
+s1033
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300851209#300851209#0(0"0(0#1#0"8658186336#0"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300846341.917082
+e300846342.073856
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m300846341#300846342#0(0"0(0#0#77"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m8610793376#2181"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/Controller.m" -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300846341.915542
+e300846342.086263
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m: In function '-[HelloPolyAppDelegate saveStatus]':
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: 'Controller' may not respond to '+saveStatus'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: (Messages without a matching method signature
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: will be assumed to return 'id' and accept
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: '...' as arguments.)
+lSLF07#2@95"Compile /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m300846341#300846342#0(698"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m: In function '-[HelloPolyAppDelegate saveStatus]':/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: 'Controller' may not respond to '+saveStatus'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: (Messages without a matching method signature/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: will be assumed to return 'id' and accept/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m:20: warning: '...' as arguments.)2(22@45"'Controller' may not respond to '+saveStatus'300846341#139#147#0(6@87"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m300841418#20#0#20#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)300846341#286#147#0(6@87"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m300841418#20#0#20#0#0"0(0#0#87"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m8647746272#2201"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/HelloPolyAppDelegate.m" -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300845592.749676
+e300845592.861914
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m300845592#300845592#0(0"0(0#0#79"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m8654488288#2185"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonShape.m" -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300851209.136108
+e300851209.315049
+r0
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m: In function '-[PolygonView drawRect:]':
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: 'NSValue' may not respond to '+objectAtIndex:'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: (Messages without a matching method signature
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: will be assumed to return 'id' and accept
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: '...' as arguments.)
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: 'i' undeclared (first use in this function)
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: (Each undeclared identifier is reported only once
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: for each function it appears in.)
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: 'polygonPoints' undeclared (first use in this function)
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:55: warning: 'NSValue' may not respond to '+objectAtIndex:'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:56: error: expected ',' or ';' before '}' token
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:55: warning: unused variable 'point'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:67: error: 'setNameLabel' undeclared (first use in this function)
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:67: error: expected ';' before '{' token
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: error: expected declaration or statement at end of input
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: unused variable 'point'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:38: warning: unused variable 'context'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m: At top level:
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: warning: '@end' missing in implementation context
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: warning: incomplete implementation of class 'PolygonView'
+o/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: warning: method definition for '-showAdvancedOptions' not found
+o{standard input}:163:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:163:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:155:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:142:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:105:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"
+o{standard input}:105:symbol: "LC4" can't be undefined in a subtraction expression
+o{standard input}:97:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"
+o{standard input}:97:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:90:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:90:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:82:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:82:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:79:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:79:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:73:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:73:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:60:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:55:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:55:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol LC4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+lSLF07#2@86"Compile /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851209#300851209#0(5526"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m: In function '-[PolygonView drawRect:]':/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: 'NSValue' may not respond to '+objectAtIndex:'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: (Messages without a matching method signature/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: will be assumed to return 'id' and accept/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: '...' as arguments.)/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: 'i' undeclared (first use in this function)/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: (Each undeclared identifier is reported only once/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: for each function it appears in.)/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:54: error: 'polygonPoints' undeclared (first use in this function)/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:55: warning: 'NSValue' may not respond to '+objectAtIndex:'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:56: error: expected ',' or ';' before '}' token/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:55: warning: unused variable 'point'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:67: error: 'setNameLabel' undeclared (first use in this function)/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:67: error: expected ';' before '{' token/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: error: expected declaration or statement at end of input/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:52: warning: unused variable 'point'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:38: warning: unused variable 'context'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m: At top level:/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: warning: '@end' missing in implementation context/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: warning: incomplete implementation of class 'PolygonView'/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m:73: warning: method definition for '-showAdvancedOptions' not found{standard input}:163:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:163:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:155:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:142:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:105:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"{standard input}:105:symbol: "LC4" can't be undefined in a subtraction expression{standard input}:97:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"{standard input}:97:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:90:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:90:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:82:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:82:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:79:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:79:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:73:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:73:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:60:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:55:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:55:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol LC4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_216(22@46"'NSValue' may not respond to '+objectAtIndex:'300851209#120#139#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#52#0#52#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)300851209#259#138#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#52#0#52#0#0"0(4@43"'i' undeclared (first use in this function)300851209#644#134#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#54#0#54#0#43"'*' undeclared (first use in this function)0(4@55"'polygonPoints' undeclared (first use in this function)300851209#1042#146#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#54#0#54#0#43"'*' undeclared (first use in this function)0(22@46"'NSValue' may not respond to '+objectAtIndex:'300851209#1188#139#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#55#0#55#0#26"'*' may not respond to '*'0(4@36"Expected ',' or ';' before '}' token300851209#1327#127#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#56#0#56#0#19"expected * before *0(22@23"Unused variable 'point'300851209#1454#116#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#55#0#55#0#19"unused variable '*'0(4@54"'setNameLabel' undeclared (first use in this function)300851209#1570#145#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#67#0#67#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before '{' token300851209#1715#120#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#67#0#67#0#19"expected * before *0(4@49"Expected declaration or statement at end of input300851209#1835#140#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#73#0#73#0#49"expected declaration or statement at end of input0(22@23"Unused variable 'point'300851209#1975#116#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#52#0#52#0#19"unused variable '*'0(22@25"Unused variable 'context'300851209#2091#118#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#38#0#38#0#19"unused variable '*'0(23@13"At top level:300851209#2209#94#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#0#0#0#0#0"0(22@40"'@end' missing in implementation context300851209#2303#133#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#73#0#73#0#40"'@end' missing in implementation context0(22@48"Incomplete implementation of class 'PolygonView'300851209#2436#141#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#73#0#73#0#38"incomplete implementation of class '*'0(22@54"Method definition for '-showAdvancedOptions' not found300851209#2577#147#0(6@78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m300851205#73#0#73#0#35"method definition for '*' not found0(0#0#78"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m8653280096#2183"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/Classes/PolygonView.m" -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o"1#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300845592.648109
+e300845592.712982
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m300845592#300845592#0(0"0(0#0#63"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m8653690560#2161"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/main.m" -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/MainWindow.xib"
+s300846762.562089
+e300846763.172595
+r1
+xCompileXIB
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300846762#300846763#0(0"0(0#0#71"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/MainWindow.xib8631515968#632"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib" "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM" "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly"
+s300850942.740589
+e300850942.765179
+r1
+xGenerateDSYMFile
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/HelloPoly.app.dSYM build/Debug-iphonesimulator/HelloPoly.app/HelloPoly300850942#300850942#0(0"0(0#0#108"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly8643593696#449"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly" -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM"0#
+
+CLd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly" normal i386
+s300850942.708021
+e300850942.740463
+r1
+xLd
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+xnormal
+xi386
+lSLF07#2@113"Link /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly300850942#300850942#0(0"0(0#0#0"8654212256#1010"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" -filelist "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly"0#
+
+CProcessInfoPlistFile "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist" HelloPoly-Info.plist
+s300845591.010186
+e300845591.028485
+r1
+xProcessInfoPlistFile
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+xHelloPoly-Info.plist
+lSLF07#2@28"Process HelloPoly-Info.plist300845591#300845591#0(0"0(0#0#77"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/HelloPoly-Info.plist8653079040#545"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloPoly-Info.plist -genpkginfo "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist"0#
+
+CProcessPCH /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300845591.635640
+e300845592.647806
+r1
+xProcessPCH
+x/var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch.gch
+xHelloPoly_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HelloPoly_Prefix.pch300845591#300845592#0(0"0(0#0#77"/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/HelloPoly_Prefix.pch8654497888#2031"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/HelloPoly_Prefix.pch" -o /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-baixdoicsdgglxafaluoecyssjny/HelloPoly_Prefix.pch.gch0#
+
+CTouch "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app"
+s300850942.765284
+e300850942.768413
+r1
+xTouch
+x/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+lSLF07#2@104"Touch /Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app300850942#300850942#0(0"0(0#0#0"8642082720#320"    cd "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/kenr/Documents/Stanford iPhone Projects/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app"0#
+
