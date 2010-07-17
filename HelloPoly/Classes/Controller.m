@@ -9,7 +9,6 @@
 
 @implementation Controller
 
-
 - (void)awakeFromNib {
 	[self initSides];
 }
@@ -30,11 +29,16 @@
 	[self updateInterface];
 }
 
-- (IBAction)updateInterface {
+- (IBAction)setWithSlider {
+	int intVal = (int)slider.value;
+	NSLog(@"In setWithSlider with value %d", intVal);
+	polygon.numberOfSides = intVal;
+	[self updateInterface];
+}
 
+- (IBAction)updateInterface {
+	[view setNumberOfSides:polygon.numberOfSides];
 	NSLog(@"updateInterface");
-	numberOfSidesLabel.text = [NSString stringWithFormat:@"%d", polygon.numberOfSides];
-	
 	if ([polygon numberOfSides] == [polygon maximumNumberOfSides]) {
 		increaseButton.enabled = NO;
 	} else if ([polygon numberOfSides] == [polygon minimumNumberOfSides]) {
@@ -43,6 +47,15 @@
 		increaseButton.enabled = YES;
 		decreaseButton.enabled = YES;
 	}
+	
+	NSLog(@"styleControl.selectedSegmentIndex = %d", styleControl.selectedSegmentIndex);
+	
+	[view setLineStyle:styleControl.selectedSegmentIndex];
+	
+	slider.value = polygon.numberOfSides;
+	numberOfSidesLabel.text = [NSString stringWithFormat:@"%d",polygon.numberOfSides];
+	nameLabel.text = [NSString stringWithFormat:@"%@",polygon.name];
+	[view setNeedsDisplay];
 }
 
 - (IBAction)initSides {
@@ -50,27 +63,30 @@
 	[polygon setMinimumNumberOfSides:3];
 	[polygon setMaximumNumberOfSides:12];
 	
-	int sides = [defaults integerForKey:@"initSides"];
-	NSLog(@"in initSides sides = %d", sides);
+	[slider setMinimumValue:3];
+	[slider setMaximumValue:12];
 	
+	int sides = [defaults integerForKey:@"initSides"];
+	[view setLineStyle:[defaults integerForKey:@"lineStyle"]];
+	
+	styleControl.selectedSegmentIndex = view.lineStyle;
+		
 	if (sides == 0) {
 		sides = polygon.numberOfSides;
 		[defaults setInteger:sides forKey:@"initSides"];
 	} else {
-		NSLog(@"Calling setNumberOfSides from Controller at line %d", __LINE__);
 		[polygon setNumberOfSides:sides];
 
 	}
 	[self updateInterface];
-	[polygon logAttributes];
+//	[polygon logAttributes];
 
-//	[defaults removeObjectForKey:@"initSides"];
 }
 
 - (void)saveStatus {
-	NSLog(@"In saveStatus in Controller at %d", __LINE__);
 	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
 	
+	[defaults setInteger:[view lineStyle] forKey:@"lineStyle"];
 	[defaults setInteger:[polygon numberOfSides] forKey:@"initSides"];
 }
 

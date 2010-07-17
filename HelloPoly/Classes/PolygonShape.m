@@ -34,6 +34,7 @@
 	NSLog(@"In setNumber of sides with %d sides.", newNumberOfSides);
 	if (newNumberOfSides <= [self maximumNumberOfSides] && newNumberOfSides >= [self minimumNumberOfSides]) {
 		numberOfSides = newNumberOfSides;
+		[self setName];
 	} else {
 		NSLog(@"The number of sides must be between %d and %d.", [self minimumNumberOfSides], [self maximumNumberOfSides]);
 	}

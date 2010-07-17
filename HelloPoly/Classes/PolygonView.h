@@ -10,7 +10,11 @@
 #import "PolygonShape.h"
 
 @interface PolygonView : UIView  {
+	float linePattern[2];
 }
+
+@property int numberOfSides;
+@property int lineStyle;
 
 // class methods
 + (NSArray *)pointsForPolygonInRect:(CGRect)rect numberOfSides:(int)numberOfSides;

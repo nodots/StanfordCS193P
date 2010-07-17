@@ -9,6 +9,10 @@
 
 @implementation PolygonView
 
+@synthesize numberOfSides;
+@synthesize lineStyle;
+
+
 + (NSArray *)pointsForPolygonInRect:(CGRect)rect numberOfSides:(int)numberOfSides {
 	CGPoint center = CGPointMake(rect.size.width / 2.0, rect.size.height / 2.0);
 	float radius = 0.9 * center.x;
@@ -31,6 +35,15 @@
 	// CGPoint thePoint = [theValue CGPointValue];
 }
 
+- (void)setLineStyle:(int)style {
+	NSLog(@"In setLineStyle with style %d",style);
+	lineStyle = style;	
+}
+
+- (void)setLinePattern {
+	linePattern[0] = 4;
+	linePattern[1] = 2;
+}
 
 - (void)drawRect:(CGRect)rect {
 //	NSLog(@"In drawRect override");
@@ -45,27 +58,41 @@
 	[[UIColor blackColor] set];
 	UIRectFrame(bounds);
 	
-//	CGContextBeginPath(context);
+	CGContextBeginPath(context);
 
-//	NSArray *polygonPoints = [[NSArray self] pointsForPolygonInRect:bounds numberOfSides:5];
+	NSArray *polygonPoints = [PolygonView pointsForPolygonInRect:bounds numberOfSides:numberOfSides];
+	NSValue *val;
+	CGPoint point;
 	
-	NSValue *point = [NSValue objectAtIndex:0];
+	// get the first point to start our path
+	val = [polygonPoints objectAtIndex:0];
+	point = [val CGPointValue]; 
+	CGContextMoveToPoint(context, point.x, point.y);
 	
-	for (i = 1; i < polygonPoints.count; i++) {
-		NSValue *point = [NSValue objectAtIndex:i]
+	// loop over remaining points and draw lines between points
+	for (int i = 1; i < polygonPoints.count; i++) {
+		val = [polygonPoints objectAtIndex:i];
+		point = [val CGPointValue]; 
+//		NSLog(@"%d, %d", point.x, point.y);
+		CGContextAddLineToPoint(context, point.x, point.y);
 	}
-	//CGContextMoveToPoint(context, 75, 10);
-//	CGContextAddLineToPoint(context, 10, 150);
-//	CGContextAddLineToPoint(context,160,150);
-//	CGContextClosePath(context);
 	
-//	[[UIColor redColor] setFill];
-//	[[UIColor blackColor] setStroke];
-//	CGContextDrawPath(context, kCGPathFillStroke);
-}
-
-- (void)setNameLabel {
-	NSLog(@"setNameLabel called");
+	// finish path
+	CGContextClosePath(context);
+	
+	NSLog(@"lineStyle = %d", lineStyle);
+	if (lineStyle == 1) {
+		[self setLinePattern];
+		CGContextSetLineDash(context,0,linePattern,2);
+	}
+	
+	// set up colors and draw
+	[[UIColor redColor] setFill];
+	[[UIColor blackColor] setStroke];
+	
+	
+	
+	CGContextDrawPath(context, kCGPathFillStroke);
 }
 
 - (void)showAdvancedOptions {}
