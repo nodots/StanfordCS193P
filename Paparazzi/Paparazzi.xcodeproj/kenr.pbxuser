@@ -1,0 +1,106 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PaparazziAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1117, 831}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{0, 464}";
+			sepNavWindowFrame = "{{15, 386}, {1367, 667}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PaparazziAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1800.09, 2394}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{84, 1424}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Paparazzi */ = {
+		activeExec = 0;
+		executables = (
+			360A5AC811FBA632001F22B4 /* Paparazzi */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 360A5AC811FBA632001F22B4 /* Paparazzi */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Paparazzi */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Paparazzi */,
+		);
+		codeSenseManager = 360A5ADE11FBA640001F22B4 /* Code sense */;
+		executables = (
+			360A5AC811FBA632001F22B4 /* Paparazzi */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 301704754;
+			PBXWorkspaceStateSaveDate = 301704754;
+		};
+		sourceControlManager = 360A5ADD11FBA640001F22B4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	360A5AC811FBA632001F22B4 /* Paparazzi */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Paparazzi;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	360A5AD811FBA640001F22B4 /* PersonListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {640.541, 336}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	360A5ADD11FBA640001F22B4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	360A5ADE11FBA640001F22B4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	360A5ADF11FBA64A001F22B4 /* PhotoListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {640.541, 336}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	360A5AE611FBA68D001F22B4 /* PhotoDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {788, 789}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+}
