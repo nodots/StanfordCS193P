@@ -7,9 +7,17 @@
 //
 
 #import "PhotoListViewController.h"
-
+#import "PhotoDetailViewController.h"
 
 @implementation PhotoListViewController
+
+
+- (IBAction)displayPhotoDetail:(id)sender {
+	PhotoDetailViewController *photoDetailViewController = [[PhotoDetailViewController alloc] init];
+	[self.navigationController pushViewController:photoDetailViewController animated:YES];
+	photoDetailViewController.title = @"Urban Disaster";
+	[photoDetailViewController release];
+}
 
 /*
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.

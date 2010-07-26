@@ -1,7 +1,7 @@
 TPaparazzi
 v7
 r0
-t301711263.742224
+t301880982.040095
 cCheck dependencies
 cProcessInfoPlistFile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist Paparazzi-Info.plist
 cCompileXIB /Users/kenr/Documents/StanfordCS193P/Paparazzi/MainWindow.xib
@@ -51,38 +51,38 @@ t1275359586
 s30700048
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.h
-c000000004C4B881A0000000000000123
-t1280018458
-s291
+c000000004C4DF7730000000000000141
+t1280178035
+s321
 i<UIKit/UIKit.h>
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m
-c000000004C4B80D50000000000000606
-t1280016597
-s1542
+c000000004C4E1ECF0000000000000712
+t1280188111
+s1810
 i"PersonListViewController.h"
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib
-c000000004C4B7FDC0000000000005046
-t1280016348
-s20550
+c000000004C4E1C350000000000005585
+t1280187445
+s21893
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.h
-c000000004C4B805100000000000000F0
-t1280016465
-s240
+c000000004C4E1D57000000000000011D
+t1280187735
+s285
 i<UIKit/UIKit.h>
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m
-c000000004C4B6ECA00000000000005B0
-t1280011978
-s1456
+c000000004C4E1EE5000000000000071B
+t1280188133
+s1819
 i"PhotoListViewController.h"
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib
-c000000004C4B7FBB0000000000005561
-t1280016315
-s21857
+c000000004C4E1F1200000000000058B0
+t1280188178
+s22704
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.h
 c000000004C4B6F7F00000000000001D0
@@ -111,9 +111,9 @@ s1462
 i"PhotoDetailViewController.h"
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib
-c000000004C4B6F0D0000000000001886
-t1280012045
-s6278
+c000000004C4E1E390000000000004041
+t1280187961
+s16449
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/MainWindow.xib
 c000000004C4B6EB20000000000002112
@@ -128,9 +128,9 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/PersonListViewController.h
-c000000004C4B881A0000000000000123
-t1280018458
-s291
+c000000004C4DF7730000000000000141
+t1280178035
+s321
 i<UIKit/UIKit.h>
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/PersonListViewController.m
@@ -145,9 +145,9 @@ t1280011968
 s6275
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/PhotoListViewController.h
-c000000004C4B805100000000000000F0
-t1280016465
-s240
+c000000004C4E1D57000000000000011D
+t1280187735
+s285
 i<UIKit/UIKit.h>
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/PhotoListViewController.m
@@ -167,11 +167,11 @@ t1279747243
 s6722
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app
-t1280018463
+t1280188182
 s374
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM
-t1280018463
+t1280188182
 s102
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist
@@ -183,20 +183,20 @@ t1280012004
 s986
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
-t1280018463
-s19764
+t1280188182
+s20004
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PersonListViewController.nib
-t1280016354
-s1826
+t1280187450
+s1922
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoDetailViewController.nib
-t1280012359
-s764
+t1280187967
+s1014
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoListViewController.nib
-t1280016354
-s1965
+t1280188181
+s2062
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PkgInfo
 t1280012004
@@ -216,20 +216,20 @@ t1280012359
 s746
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o
-t1280018463
-s54276
+t1280187968
+s54300
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o
-t1280018463
-s35428
+t1280188115
+s36840
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoDetailViewController.o
 t1280012360
 s34696
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o
-t1280018463
-s34660
+t1280188181
+s36644
 
 N/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o
 t1280012006
@@ -257,11 +257,11 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies301711263#301711263#0(0"0(0#1#0"8611487744#0"0#
+lSLF07#2@18"Check dependencies301880981#301880981#0(0"0(0#1#0"8615560288#0"0#
 
 CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s301711263.492282
-e301711263.612565
+s301880767.983237
+e301880768.089313
 r1
 xCompileC
 xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o
@@ -270,11 +270,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m301711263#301711263#0(0"0(0#0#77"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m8611154176#2069"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o0#
+lSLF07#2@85"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m301880767#301880768#0(0"0(0#0#77"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m8615210400#2069"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PaparazziAppDelegate.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o0#
 
 CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s301711263.493621
-e301711263.626745
+s301880914.950508
+e301880915.100715
 r1
 xCompileC
 xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o
@@ -283,7 +283,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@92"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m301711263#301711263#0(0"0(0#0#84"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m8610821408#2080"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o0#
+lSLF07#2@92"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m301880914#301880915#0(0"0(0#0#84"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m8612043104#2080"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o0#
 
 CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o /Users/kenr/Documents/StanfordCS193P/Paparazzi/PersonListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -302,8 +302,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@90"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.m301705160#301705160#0(0"0(0#0#82"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.m8612378944#2079"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoDetailViewController.o0#
 
 CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s301711263.612681
-e301711263.685110
+s301880981.831936
+e301880981.984749
 r1
 xCompileC
 xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o
@@ -312,7 +312,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@91"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m301711263#301711263#0(0"0(0#0#83"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m8604344544#2078"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o0#
+lSLF07#2@91"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m301880981#301880981#0(0"0(0#0#83"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m8614295776#2078"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o0#
 
 CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o /Users/kenr/Documents/StanfordCS193P/Paparazzi/PhotoListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -331,28 +331,28 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@61"Compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/main.m301704806#301704806#0(0"0(0#0#53"/Users/kenr/Documents/StanfordCS193P/Paparazzi/main.m8600336512#2029"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -include /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/main.m -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib
-s301709153.870899
-e301709154.607903
+s301880249.555456
+e301880250.118666
 r1
 xCompileXIB
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib
-lSLF07#2@50"CompileXIB Classes/../PersonListViewController.xib301709153#301709154#0(0"0(0#0#86"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib8611649120#635"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PersonListViewController.nib /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+lSLF07#2@50"CompileXIB Classes/../PersonListViewController.xib301880249#301880250#0(0"0(0#0#86"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib8612452896#635"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PersonListViewController.nib /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PersonListViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib
-s301709153.871817
-e301709154.613669
+s301880981.218561
+e301880981.831330
 r1
 xCompileXIB
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib
-lSLF07#2@49"CompileXIB Classes/../PhotoListViewController.xib301709153#301709154#0(0"0(0#0#85"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib8611108608#633"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoListViewController.nib /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+lSLF07#2@49"CompileXIB Classes/../PhotoListViewController.xib301880981#301880981#0(0"0(0#0#85"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib8615781568#633"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoListViewController.nib /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/../PhotoListViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib
-s301705159.473196
-e301705159.949264
+s301880767.322374
+e301880767.938979
 r1
 xCompileXIB
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib
-lSLF07#2@48"CompileXIB Classes/PhotoDetailViewController.xib301705159#301705159#0(0"0(0#0#84"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib8603312608#634"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoDetailViewController.nib /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+lSLF07#2@48"CompileXIB Classes/PhotoDetailViewController.xib301880767#301880767#0(0"0(0#0#84"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib8614312384#634"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoDetailViewController.nib /Users/kenr/Documents/StanfordCS193P/Paparazzi/Classes/PhotoDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/kenr/Documents/StanfordCS193P/Paparazzi/MainWindow.xib
 s301704804.366218
@@ -387,23 +387,23 @@ xjosh.jpg
 lSLF07#2@13"Copy josh.jpg301709079#301709079#0(0"0(0#0#55"/Users/kenr/Documents/StanfordCS193P/Paparazzi/josh.jpg8612213344#478"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kenr/Documents/StanfordCS193P/Paparazzi/josh.jpg /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app0#
 
 CGenerateDSYMFile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
-s301711263.713115
-e301711263.738462
+s301880982.014730
+e301880982.037057
 r1
 xGenerateDSYMFile
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
-lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Paparazzi.app.dSYM build/Debug-iphonesimulator/Paparazzi.app/Paparazzi301711263#301711263#0(0"0(0#0#98"/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi8602746880#413"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM0#
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Paparazzi.app.dSYM build/Debug-iphonesimulator/Paparazzi.app/Paparazzi301880982#301880982#0(0"0(0#0#98"/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi8614974976#413"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM0#
 
 CLd /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi normal i386
-s301711263.685214
-e301711263.713000
+s301880981.984849
+e301880982.014618
 r1
 xLd
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
 xnormal
 xi386
-lSLF07#2@103"Link /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi301711263#301711263#0(0"0(0#0#0"8603501824#950"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -filelist /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Paparazzi.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi0#
+lSLF07#2@103"Link /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi301880981#301880982#0(0"0(0#0#0"8615207648#950"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -filelist /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Paparazzi.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi0#
 
 CProcessInfoPlistFile /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist Paparazzi-Info.plist
 s301704804.358514
@@ -428,10 +428,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile Paparazzi_Prefix.pch301704805#301704806#0(0"0(0#0#67"/Users/kenr/Documents/StanfordCS193P/Paparazzi/Paparazzi_Prefix.pch8602929696#1911"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap -iquote /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap -F/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/include -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386 -I/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/Paparazzi_Prefix.pch -o /var/folders/bI/bIBq8HvlFiyTKjUU8niDIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cjwdeffelzwyyubifmpbjwebxgks/Paparazzi_Prefix.pch.gch0#
 
 CTouch /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app
-s301711263.738563
-e301711263.742181
+s301880982.037156
+e301880982.040051
 r1
 xTouch
 x/Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app
-lSLF07#2@94"Touch /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app301711263#301711263#0(0"0(0#0#0"8596213696#296"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app0#
+lSLF07#2@94"Touch /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app301880982#301880982#0(0"0(0#0#0"8614758688#296"    cd /Users/kenr/Documents/StanfordCS193P/Paparazzi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kenr/Documents/StanfordCS193P/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app0#
 

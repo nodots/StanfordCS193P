@@ -7,12 +7,16 @@
 //
 
 #import "PersonListViewController.h"
+#import "PhotoListViewController.h"
 
 
 @implementation PersonListViewController
 
 - (IBAction)displayContactPhotos:(id)sender {
-	NSLog(@"displayContactPhotos");
+	PhotoListViewController *photoListViewController = [[PhotoListViewController alloc] init];
+	[self.navigationController pushViewController:photoListViewController animated:YES];
+	photoListViewController.title = @"Josh's Photos";
+	[photoListViewController release];
 }
 
 

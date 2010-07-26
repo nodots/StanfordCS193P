@@ -10,7 +10,7 @@
 
 
 @interface PersonListViewController : UIViewController {
-	
+	IBOutlet UIButton *viewButton;
 
 }
 

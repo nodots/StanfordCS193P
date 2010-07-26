@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface PhotoListViewController : UIViewController {
-
+	
 }
+
+- (IBAction)displayPhotoDetail:(id)sender;
 
 @end
